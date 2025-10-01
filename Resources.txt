@@ -1,0 +1,12 @@
+**MRI**
+Nature Paper: https://www.nature.com/articles/s41597-025-05623-3
+UT MRI Dataset: https://zenodo.org/records/15750762
+Image Analysis Tools using for RAovSeg: https://github.com/xlianguth/RAovSeg\
+
+**Ultrasound**
+CNN model comparison: Https://arxiv.org/pdf/2302.09621 
+ovarian endometriosis cyst & and tubal-ovarian abscess: Https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2023.1101810/full 
+abdominal wall endometriosis (sub type of endometriosis): https://pmc.ncbi.nlm.nih.gov/articles/PMC8065386/
+
+**Review**
+review on AI and endometriosis diagnosis: https://pmc.ncbi.nlm.nih.gov/articles/PMC12078975/
