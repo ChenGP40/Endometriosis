@@ -1,7 +1,7 @@
 **MRI**
-Nature Paper: https://www.nature.com/articles/s41597-025-05623-3
+Nature Paper with Github: https://www.nature.com/articles/s41597-025-05623-3
+Github: https://github.com/xlianguth/RAovSeg\
 UT MRI Dataset: https://zenodo.org/records/15750762
-Image Analysis Tools using for RAovSeg: https://github.com/xlianguth/RAovSeg\
 
 **Ultrasound**
 CNN model comparison: Https://arxiv.org/pdf/2302.09621 
